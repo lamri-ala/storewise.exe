@@ -1,0 +1,14 @@
+{
+  "version": "1.1.0",
+  "name": "StoreWise SM",
+  "description": "Smart offline store POS & inventory software",
+  "releaseDate": "2026-06-23",
+  "changelog": [
+    "Added automatic quantity recalculation in POS when editing Selling Price or Line Total.",
+    "Added temporary custom selling price adjustment dialog (Sell by Amount) in POS.",
+    "Added customer balance top-ups card and Expected Cash in Register metrics in Reports.",
+    "Localized confirmation dialog words based on language.",
+    "Synchronized stock status notifications in real time."
+  ],
+  "downloadUrl": "https://github.com/lamri-ala/shop-buddy-pro-66/releases/download/v1.1.0/StoreWise-SM-Setup-1.1.0.exe"
+}
