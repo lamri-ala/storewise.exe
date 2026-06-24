@@ -2,14 +2,10 @@
   "version": "1.3.0",
   "name": "StoreWise SM",
   "description": "Smart offline store POS & inventory software",
-  "releaseDate": "2026-06-23",
+  "releaseDate": "2026-06-24",
   "changelog": [
-    "Added automatic quantity recalculation in POS when editing Selling Price or Line Total.",
-    "Added temporary custom selling price adjustment dialog (Sell by Amount) in POS.",
-    "Added customer balance top-ups card and Expected Cash in Register metrics in Reports.",
-    "Localized confirmation dialog words based on language.",
-    "Synchronized stock status notifications in real time."
+    "delete the currency from the branch card in the branchs screens and add the phone number.",
+    ""
   ],
-  "downloadUrl": "https://github.com/lamri-ala/storewise.exe/releases/download/v1.1.0/StoreWise.SM.Setup.1.1.0.exe"
+  "downloadUrl": "https://github.com/lamri-ala/storewise.exe/releases/download/v1.3.0/StoreWise.SM.Setup.1.3.0.exe"
 }
-
